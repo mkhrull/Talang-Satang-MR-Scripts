@@ -1,3 +1,5 @@
+// Unfortunately only works in Unity3D, whenever deployed into HoloLens, it defaults back to the original FOV
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
