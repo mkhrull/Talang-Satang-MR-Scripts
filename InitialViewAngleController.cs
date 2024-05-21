@@ -1,3 +1,5 @@
+//doesnt work when deployed into hololens, if want to change first FOV, need to change rotation value in MRNamespace
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
